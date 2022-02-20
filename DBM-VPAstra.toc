@@ -1,0 +1,14 @@
+## Interface: 90105
+## Interface-Classic: 11402
+## Interface-BCC: 20503
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Astra Voice Pack|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Zilya
+## Version: @project-version@
+## X-Curse-Project-ID: 87828
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Astra Voice Pack (Russian)
+## X-DBM-Voice-ShortName: Astra
+## X-DBM-Voice-Version: 12
+## X-DBM-Voice-HasCount: 1
