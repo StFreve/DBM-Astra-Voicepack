@@ -1,2 +1,2 @@
 # DBM-Astra-Voicepack
-Astra Voicepack for DBM
+Astra Voicepack for World Of Warcraft addon DBM
