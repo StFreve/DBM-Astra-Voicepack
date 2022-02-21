@@ -11,4 +11,4 @@
 ## X-DBM-Voice-Name: Astra Voice Pack (Russian)
 ## X-DBM-Voice-ShortName: Astra
 ## X-DBM-Voice-Version: 12
-## X-DBM-Voice-HasCount: 1
+## X-DBM-Voice-HasCount: 0
