@@ -12,5 +12,9 @@
 ## X-DBM-Voice-ShortName: Astra
 ## X-DBM-Voice-Version: 12
 ## X-DBM-Voice-HasCount: 0
+## X-DBM-VictoryPack: 1
+## X-DBM-VictoryPack-GlobalName: RegisterAstraVicotrySounds
+## X-DBM-DefeatPack: 1
+## X-DBM-DefeatPack-GlobalName: RegisterAstraDefeatSounds
 
 DBM-VPAstra.lua
